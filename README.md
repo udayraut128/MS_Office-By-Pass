@@ -42,8 +42,10 @@ This PowerShell script is used to activate various versions of **Microsoft Offic
 
 3. **Follow the On-Screen Menu**
    ![Office Activation](assets/office-activation1.png)
-  ![Office Activation](assets/office-activation2.png)
-![Office Activation](assets/office-activation3.png)
+   <br>
+   ![Office Activation](assets/office-activation2.jpeg)
+   <br>
+  ![Office Activation](assets/office-activation3.jpeg)
 
 
    - Choose the Office version and activation method from the menu.
