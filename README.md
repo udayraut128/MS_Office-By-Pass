@@ -2,8 +2,7 @@
 This project provides a simple method to activate Microsoft Office products using a PowerShell command that downloads and runs a popular community script from massgrave.dev. The script supports multiple versions of Microsoft Office, including Office 2010 through Office 2021 and Microsoft 365 (Volume License).
 
 
-
-```markdown
+ 
 # Microsoft Office Activator (PowerShell Script)
 
 > ⚠️ **Disclaimer:** This project is for **educational purposes only**. Bypassing Microsoft’s activation system may violate its terms of service. Always consider purchasing a legal license from Microsoft or its authorized partners.
@@ -41,18 +40,21 @@ This PowerShell script is used to activate various versions of **Microsoft Offic
    - This command uses `Invoke-RestMethod` (alias `irm`) to fetch the activation script and `Invoke-Expression` (alias `iex`) to execute it.
 
 3. **Follow the On-Screen Menu**
+   ## First Enter 2 for MS office 
    ![Office Activation](assets/office-activation1.png)
    <br>
+   
+    ## Then Enter 1 for MS office 
    ![Office Activation](assets/office-activation2.jpeg)
    <br>
+    ## Press any key for exit  
   ![Office Activation](assets/office-activation3.jpeg)
 
 
-   - Choose the Office version and activation method from the menu.
-   - Let the script complete the activation process automatically.
 
-5. **Restart Your PC**
-   - Once activated, it's recommended to restart the system.
+
+5. **Run your MS office Application**
+  
 
 ---
 
